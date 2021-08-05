@@ -1,0 +1,43 @@
+[
+  {
+    "id": 0,
+    "name": "Squats",
+    "model": "squats",
+    "description": "Ideal for exercising core muscles; squats are a low impact, high intesity exercise that can be performed anywhere",
+    "src": "https://teachablemachine.withgoogle.com/models/aH894BqRS/",
+    "image": "1.jpg",
+    "icon": "1.png",
+    "enabled": true
+  },
+  {
+    "id": 1,
+    "name": "Planks",
+    "model": "planks",
+    "description": "Planks are a convenient endurance exercise which require no additional equipment.",
+    "src": "https://teachablemachine.withgoogle.com/models/aH894BqRS/",
+    "image": "2.jpg",
+    "icon": "2.png",
+    "enabled": false
+  },
+  {
+    "id": 2,
+    "name": "Pull-ups",
+    "model": "pullups",
+    "description": "Pullups are the perfect exercise to work on arm strength and core. The only equipment required is a Pull-up  bar",
+    "src": "https://teachablemachine.withgoogle.com/models/aH894BqRS/",
+    "image": "3.jpg",
+    "icon": "3.png",
+    "enabled": false
+  },
+
+  {
+    "id": 3,
+    "name": "Pushups",
+    "model": "pushups",
+    "description": "Pushups help improve upper body strength as well as lower back and evel core. There are many variations wich allow for targeting specific groupes of muscles",
+    "src": "https://teachablemachine.withgoogle.com/models/tKwazivLL/",
+    "image": "4.jpg",
+    "icon": "4.png",
+    "enabled": true
+  }
+]
